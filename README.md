@@ -1,7 +1,7 @@
 # Question_Answering_System
 
-Data: Facebook page "ကိုဗစ်-၁၉ ဗဟုသုတစင်တာ"
+Data from Facebook page "ကိုဗစ်-၁၉ ဗဟုသုတစင်တာ"
 
-Myanmar Syllable Break is reference from Sayar Ye Kyaw Thu 
+Myanmar Syllable Break is referenced from Sayar Ye Kyaw Thu 
 
-Simpel Question Answering System using Levenshtein Distance
+Simple Question Answering System using Levenshtein Distance
